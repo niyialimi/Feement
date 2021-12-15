@@ -51,23 +51,31 @@ The system allows for school admins to easily set up school fees, events and oth
 - Simple, fast, and the safest possible solution available to receive their fees online. 
 
 ## **Benefits for Schools/Organization**
+
 **COST REDUCTION** 
+
 The entire account department of your Institution can be managed by a single person. This will reduce expenses and contribute towards the development of your school
 
 **ZERO PAPERWORK – NEGLIGIBLE ERROR**
+
 Zero paperwork. No need to maintain Cash registers/memos. The Account office can view transactions made from the dashboard. 
 
 **PAYMENT ON THE GO – BEING MOBILE** 
+
 The platform can also be accessed by mobile. There are also android and iOS Apps for FeeMent which can be downloaded from respective stores. 
 
-#**Benefits for Parents/Payers**
+## **Benefits for Parents/Payers**
+
 **SAVES TIME**
+
 All related payments can be made on FeeMent with a single click. No need to visit different portals to make payments.
 
 **SAVES MONEY**
+
 Just a click pays all with a single charge of transaction/processing fee.
 
 **CONNECTION**
+
 Social interaction with other parents on the platform
 
 ## **Product**
